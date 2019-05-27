@@ -71,11 +71,33 @@ namespace UrnaEletronic
                     senha = Console.ReadLine();
                     if ("Senha"== senha)
                     {
-                        foreach(Candidato obj in list)
+                        Console.WriteLine(" Deseja Cadastrar um novo Candidato?");
+                        string z = Console.ReadLine();
+
+                        if (z == "sim" || z == "Sim" || z == "SIM")
                         {
-                            Console.WriteLine(obj+", Numero De votos:"+ obj.NumeroVotos);
+                            Console.WriteLine("Digite o nome");
+                            string name = Console.ReadLine();
+
+                            Console.WriteLine("Digite o Numero");
+                            int numero = int.Parse(Console.ReadLine());
+
+
+                            Console.WriteLine("Digite o Id");
+                            int id = int.Parse(Console.ReadLine());
+
+                            Console.WriteLine("Digite o Partido");
+                            string partido = Console.ReadLine();
+
+                            list.Add(new Candidato(partido, 0, numero, name, id));
                         }
-                        Console.WriteLine("Numero dde votos Nulos:"+ Nulo);
+
+                        foreach (Candidato obj in list)
+                        {
+                            Console.WriteLine(obj + ", Numero De votos:" + obj.NumeroVotos);
+                        }
+                        Console.WriteLine("Numero dde votos Nulos:" + Nulo);
+                      
                     }
                 }
 
