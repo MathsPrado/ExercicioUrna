@@ -62,6 +62,7 @@ namespace UrnaEletronic
                                 Nulo++;
                             }
                         }
+                        y = 0;
                     } while (x == 3 || x != 2);
                 }
 
@@ -96,12 +97,12 @@ namespace UrnaEletronic
                         {
                             Console.WriteLine(obj + ", Numero De votos:" + obj.NumeroVotos);
                         }
-                        Console.WriteLine("Numero dde votos Nulos:" + Nulo);
+                        Console.WriteLine("Numero de votos Nulos:" + Nulo);
                       
                     }
                 }
 
-                Console.WriteLine("Degite 1 para sair");
+                Console.WriteLine("Digite 1 para sair");
                 saida = int.Parse(Console.ReadLine());
                
            

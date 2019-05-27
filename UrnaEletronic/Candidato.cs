@@ -19,15 +19,15 @@ namespace UrnaEletronic
             Id = id;
         }
 
-        public void Voto()
-        {    
-                this.NumeroVotos++;   
-        }
-
+      
         public override string ToString()
         {
             return Id + "," + " Candidato:" + Nome + ", Partido:" + Partido; 
         }
 
+        public override void Voto()
+        {
+            this.NumeroVotos++;
+        }
     }
 }

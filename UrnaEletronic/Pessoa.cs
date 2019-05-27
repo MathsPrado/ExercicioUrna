@@ -9,7 +9,7 @@ namespace UrnaEletronic
       
         public string Nome { get; set; }
         public int Id { get; set; }
-     
 
+        public abstract void Voto();
     }
 }
