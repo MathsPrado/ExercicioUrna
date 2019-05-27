@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\bin\Debug\netcoreapp2.1\UrnaEletronic.deps.json
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\bin\Debug\netcoreapp2.1\UrnaEletronic.runtimeconfig.json
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\bin\Debug\netcoreapp2.1\UrnaEletronic.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\bin\Debug\netcoreapp2.1\UrnaEletronic.dll
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\bin\Debug\netcoreapp2.1\UrnaEletronic.pdb
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\obj\Debug\netcoreapp2.1\UrnaEletronic.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\obj\Debug\netcoreapp2.1\UrnaEletronic.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\obj\Debug\netcoreapp2.1\UrnaEletronic.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\obj\Debug\netcoreapp2.1\UrnaEletronic.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\obj\Debug\netcoreapp2.1\UrnaEletronic.dll
+C:\Users\Matheus\source\repos\UrnaEletronic\UrnaEletronic\obj\Debug\netcoreapp2.1\UrnaEletronic.pdb
